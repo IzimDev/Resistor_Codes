@@ -1,0 +1,15 @@
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\bin\Debug\net7.0\Resistor_Codes.exe
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\bin\Debug\net7.0\Resistor_Codes.deps.json
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\bin\Debug\net7.0\Resistor_Codes.runtimeconfig.json
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\bin\Debug\net7.0\Resistor_Codes.dll
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\bin\Debug\net7.0\Resistor_Codes.pdb
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.csproj.AssemblyReference.cache
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.AssemblyInfoInputs.cache
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.AssemblyInfo.cs
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.csproj.CoreCompileInputs.cache
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.dll
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\refint\Resistor_Codes.dll
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.pdb
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\Resistor_Codes.genruntimeconfig.cache
+C:\Users\m7390\OneDrive\Documentos\Dev\Projects\Resistor_Codes\obj\Debug\net7.0\ref\Resistor_Codes.dll
